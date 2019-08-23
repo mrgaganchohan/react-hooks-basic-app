@@ -14,7 +14,7 @@ const Navbar = (props) => {
 
 // Navbar.defaultProps = {
 //     title: 's my',
-//     icon: 'fab fa-github'
+//     icon: 'fab fa-github' 
 // };
 
 Navbar.propTypes = {
